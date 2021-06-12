@@ -1,0 +1,97 @@
+{
+    "centers":[
+       {
+          "center_id":694749,
+          "name":"STS-II BSF HOSPTAL YELAHANKA",
+          "address":"Border Security Force PO-AFS Yelahanka",
+          "state_name":"Karnataka",
+          "district_name":"Bangalore Urban",
+          "block_name":"Bengaluru East",
+          "pincode":560063,
+          "lat":13,
+          "long":77,
+          "from":"09:00:00",
+          "to":"16:00:00",
+          "fee_type":"Free",
+          "sessions":[
+             {
+                "session_id":"2916b483-5c7e-4598-8576-26f0dbe708eb",
+                "date":"18-05-2021",
+                "available_capacity":0,
+                "min_age_limit":45,
+                "vaccine":"COVISHIELD",
+                "slots":[
+                   "09:00AM-11:00AM",
+                   "11:00AM-01:00PM",
+                   "01:00PM-03:00PM",
+                   "03:00PM-04:00PM"
+                ],
+                "available_capacity_dose1":0,
+                "available_capacity_dose2":0
+             }
+          ]
+       },
+       {
+          "center_id":632871,
+          "name":"AIR FORCE STATION YELAHANKA",
+          "address":"AIR FORCE STATION YELAHANKA",
+          "state_name":"Karnataka",
+          "district_name":"Bangalore Urban",
+          "block_name":"Bengaluru North",
+          "pincode":560063,
+          "lat":13,
+          "long":77,
+          "from":"09:00:00",
+          "to":"16:30:00",
+          "fee_type":"Free",
+          "sessions":[
+             {
+                "session_id":"8b782570-9af5-4773-9c94-5fc20fa8b66c",
+                "date":"18-05-2021",
+                "available_capacity":0,
+                "min_age_limit":45,
+                "vaccine":"COVISHIELD",
+                "slots":[
+                   "09:00AM-10:00AM",
+                   "10:00AM-11:00AM",
+                   "11:00AM-12:00PM",
+                   "12:00PM-04:30PM"
+                ],
+                "available_capacity_dose1":0,
+                "available_capacity_dose2":0
+             }
+          ]
+       },
+       {
+          "center_id":587353,
+          "name":"APTS UPHC",
+          "address":"Armed Police Training School",
+          "state_name":"Karnataka",
+          "district_name":"BBMP",
+          "block_name":"Yelahanka",
+          "pincode":560063,
+          "lat":13,
+          "long":77,
+          "from":"09:00:00",
+          "to":"18:00:00",
+          "fee_type":"Free",
+          "sessions":[
+             {
+                "session_id":"2646d410-7544-4edc-b67a-c6854b05d1cf",
+                "date":"18-05-2021",
+                "available_capacity":50,
+                "min_age_limit":45,
+                "vaccine":"COVISHIELD",
+                "slots":[
+                   "09:00AM-11:00AM",
+                   "11:00AM-01:00PM",
+                   "01:00PM-03:00PM",
+                   "03:00PM-06:00PM"
+                ],
+                "available_capacity_dose1":0,
+                "available_capacity_dose2":50
+             }
+          ]
+       }
+    ]
+ }
